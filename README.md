@@ -4,8 +4,7 @@ I'm a Computer Science student at UERJ and aspiring developer from Rio de Janeir
 
 ## ✨ About Me
 
-- 🎓 I've been studying at **ISERJ** (Instituto Superior de Educação do Rio de Janeiro) since 2023.
-- ⚖️ I'm focused on maintaining good grades while balancing my time between studying for university entrance exams and improving my coding skills.
+- 🎓 I started learning about coding studying in a High School integrated with an Informatics technician course, and I'm currently studying Computer Science at UERJ.
 - 🎯 My main goal is to build a career doing what I've loved since I was a kid: **programming**.
 - 📚 Currently learning: **Java, Kotlin, JavaScript, HTML, CSS/Tailwind**.
 
