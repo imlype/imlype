@@ -1,6 +1,6 @@
 # Hi there! I'm Felipe 👋
 
-I'm a high school student and aspiring developer from Rio de Janeiro, Brazil.
+I'm a Computer Science student at UERJ and aspiring developer from Rio de Janeiro, Brazil.
 
 ## ✨ About Me
 
