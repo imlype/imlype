@@ -2,12 +2,12 @@
 
 I'm a Computer Science student at UERJ and aspiring developer from Rio de Janeiro, Brazil.
 
-## ✨ About Me
+## About Me
 
 - 🎓 I started learning about coding studying in a High School integrated with an Informatics technician course, and I'm currently studying Computer Science at UERJ.
 - 🎯 My main goal is to build a career doing what I've loved since I was a kid: **programming**.
 
-## ⌨️ I Code With
+## I Code With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
